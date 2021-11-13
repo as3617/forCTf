@@ -1,4 +1,4 @@
-import * as module from "1.mjs";
+import * as module from "./1.mjs";
 
 /*
 => 1.mjs
